@@ -1,0 +1,17 @@
+:root {
+    --font-title: "Russo One", sans-serif;
+    --font-title: "Quicksand", sans-serif;
+    --color-light: #f4f4f4;
+    --color-blue-300: #32cbd6;
+    --color-blue-900: #120d24;
+    --color-purple-400: #d34cb6;
+    --bg-video: rgba(19, 15, 37, .8);
+}
+
+body {
+    font-family: var(--font-title);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-title);
+}
